@@ -1,7 +1,7 @@
 # Ignore the virtual environment folder
 venv/
 .venv/
-env/
+.env/
 
 # Ignore the data folder (contains large CSV/JSON/XML files)
 data/
